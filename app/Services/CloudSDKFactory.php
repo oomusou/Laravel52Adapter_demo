@@ -7,6 +7,5 @@ class CloudSDKFactory
     public static function create(): CloudSDK
     {
 
-
     }
 }
